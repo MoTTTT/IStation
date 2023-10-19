@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Internet Host Administration</TITLE>
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.0Gold (X11; I; Linux 2.0.27 i586) [Netscape]">
+   <META NAME="Author" CONTENT="MJC">
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EF" VLINK="#55188A" ALINK="#FF0000">
+
+<H1 ALIGN=CENTER>Basic Administration</H1>
+
+<P>
+<HR WIDTH="100%"></P>
+
+<P>Your Internet Host has been configured for your hardware, and there
+is little you should have to do to maintain the system. If you are interested
+in system maintenance itself, or adding new hardware to your PC, then the
+<A HREF="info.html">documentation pages</A>, and the man pages should be
+consulted for details. </P>
+
+<P>However, there are a number of things you might want to do through the
+course of using the machine that requires access to privalaged files and
+hardware. This includes adding new users, using the floppy drive, and configuring
+your internet dial up scripts.</P>
+
+<P>The rest of the <A HREF="help.html">Help</A> pages should be read first
+for a basic introduction to the PC's facilities.</P>
+
+<P>
+<HR WIDTH="100%"></P>
+
+<H1>Logging in as the administrator</H1>
+
+<P>Access to restricted configuration files is gained by logging in as
+&quot;root&quot; with the password delivered with the machine.</P>
+
+<P>You should change this passwords with the &quot;<TT>passwd</TT>&quot;
+command once you have logged in for the first time. ( Write your new password
+down somewhere! ).</P>
+
+<H1>Executing Commands</H1>
+
+<P>A Unix shell, available from the Main Menu or the Button Bar, provides
+a command prompt at which commands, such as &quot;<TT>adduser</TT>&quot;
+(mentioned below) can be entered.</P>
+
+<H1>Editing Configuration Files</H1>
+
+<P>The following tools can be used to read and edit the configuration files,
+most of which are to be found in the &quot;<TT>/etc</TT>&quot; sub-directory.
+</P>
+
+<UL>
+<LI>TkDesk, an extensive file manager, is available from the Button Bar.</LI>
+
+<LI>Midnight Commander, a Norton Commander look-alike available from the
+Main Menu, has a built-in text viewer. Select a file and use the F3 hotkey
+to view it's contents. A command prompt is also provided.</LI>
+
+<LI><TT>vim</TT> (or Vi IMproved), an extensive text editor, is available
+from the F4 hotkey in the Midnight Commander, or from a shell prompt. </LI>
+</UL>
+
+<P>
+<HR WIDTH="100%"></P>
+
+<H1>Creating new accounts</H1>
+
+<P>An example user account has been created. This account, with user name
+&quot;demo&quot; and password &quot;demo&quot;, can be used to demonstrate
+the machine. (If you are concerned about security, you should disable this
+account.)</P>
+
+<P>Personal user accounts can be created by executing the &quot;<TT>adduser</TT>&quot;
+command as root and following the prompts.</P>
+
+<H1>Configuring your ISP connection</H1>
+
+<P>The file <TT>/usr/sbin/ppp-on</TT> should be edited to suit your ISP's
+telephone number, and account details.</P>
+
+<P>Check that your ISP's username and password prompts are correct in the
+file <TT>/etc/ppp/ppp-on-dialer</TT>.</P>
+
+<P>The file /<TT>etc/ppp/options</TT> should be edited if you require PAP
+authentication, and you will need to create a file called <TT>/etc/ppp/pap-secrets</TT>
+containing your account details.</P>
+
+<P>Issue the command &quot;<TT>ppp-on</TT>&quot; to test the configuration.
+The system logs on virtual console 8 (press &lt;crtl&gt;&lt;alt&gt;F8),
+and in the <TT>/var/adm/logs</TT> directory can be viewed to see the progress
+of authentication and log-on. The command &quot;<TT>ppp-off</TT>&quot;
+can be issued to terminate the connection.</P>
+
+<P>Read the <A HREF="/woven/HOWTO/PPP-HOWTO.html">PPP-HOWTO</A> if you
+need further information.</P>
+
+<H1>Using the floppy drive</H1>
+
+<P>The command &quot;<TT>mkf</TT>&quot; can be executed by the superuser
+to mount an MS Dos floppy disk as the sub-directory &quot;<TT>~/floppy</TT>&quot;,
+where the tilde, &quot;<TT>~</TT>&quot;, stands for your home directory.
+If you are logged in as the superuser, this would appear as &quot;/<TT>root/floppy</TT>&quot;,
+or if your user-name is user1, it will be mounted as &quot;<TT>/home/user1/floppy</TT>&quot;.
+Similarly the command &quot;<TT>rmf</TT>&quot; should be issued before
+removing the disk from the drive. </P>
+
+<P>Any user can mount a floppy disk as a sub-directory of their home directory
+using the &quot;Floppy, Mount&quot; option in the Main Menu. Once the user
+is finished using the floppy, the sub-directory should be exited, and the
+&quot;Floppy, Unmount&quot; option of the main menu selected. If either
+the mount or the unmount option is unsuccesful, a message will be printed
+to the console window (xconsole) indicating the problem. If the dismount
+operation is successful, and once the disk activity has stopped (i.e. the
+light on the floppy drive goes off), the floppy can be removed from the
+drive.</P>
+
+<H1>Shutting Down the Host</H1>
+
+<P>It should not be necessary to reboot your Linux PC, or to switch it
+off. If you would like to do so in order to move it, or add new hardware,
+you may ssue the command &quot;<TT>reboot</TT>&quot; at a shell prompt.
+An alternative is to press &lt;CTRL&gt;&lt;ALT&gt;&lt;DEL&gt; while in
+the text console.</P>
+
+</BODY>
+</HTML>
