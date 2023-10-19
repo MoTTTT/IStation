@@ -1,0 +1,180 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \fs20\lang2057\cgrid \snext0 Normal;}{\s1\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\fs20\cgrid \sbasedon0 \snext0 heading 1;}{\*\cs10 \additive Default Paragraph Font;}{\s15\qc\nowidctlpar\widctlpar\adjustright \b\fs20\lang2057\cgrid \sbasedon0 \snext15 Title;}}{\*\listtable{\list\listtemplateid134807555\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3928 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid174808358}{\list\listtemplateid134807555\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3928 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid968705787}{\list\listtemplateid134807555\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3928 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1128888374}}{\*\listoverridetable{\listoverride\listid968705787\listoverridecount0\ls1}{\listoverride\listid1128888374\listoverridecount0\ls2}{\listoverride\listid174808358\listoverridecount0\ls3}}{\info{\title UNIX – TRANERS GUIDE}{\author Norma Colley}{\operator Norma Colley}{\creatim\yr1998\mo5\dy30\hr8\min59}{\revtim\yr1998\mo5\dy30\hr11\min45}{\version23}{\edmins166}{\nofpages5}{\nofwords1294}{\nofchars7379}{\*\company The Clicks Organisation}{\nofcharsws9061}{\vern71}}\widowctrl\ftnbj\aenddoc\formshade\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot \fet0\sectd \linex0\endnhere\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \s15\qc\nowidctlpar\widctlpar\adjustright \b\fs20\lang2057\cgrid UNIX \endash  TRANERS GUIDE
+\par \trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx810\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx6210\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx8550\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\lang1033 \cell \cell }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid Trainers Tools\cell \pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\lang1033 \row }\trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx810\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx6210\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx8550\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid Introduction\cell \pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\lang1033 \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell Start session by giving each attendee an opportunity to:
+\par {\pntext\pard\plain\intbl\f3\fs20\lang1033\cgrid \loch\af3\dbch\af0\hich\f3 \'a8\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\intbl\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'a8}}\ls2\adjustright {\lang1033 Introduce him/ herself
+\par {\pntext\pard\plain\intbl\f3\fs20\lang1033\cgrid \loch\af3\dbch\af0\hich\f3 \'a8\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\intbl\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'a8}}\ls1\adjustright {\lang1033 Mention their background/ knowledge on Unix and/ or other operating systems
+\par {\pntext\pard\plain\intbl\f3\fs20\lang1033\cgrid \loch\af3\dbch\af0\hich\f3 \'a8\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\intbl\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'a8}}\ls1\adjustright {\lang1033 List their expectations for the training session
+\par }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 
+\par 
+\par Provide brief outline of agenda with time frame
+\par 
+\par Discuss practical issues e.g. tea breaks etc.\cell 
+\par 
+\par 
+\par List all expectations on flip chart \endash  to refer to at end of training session
+\par 
+\par Overhead - Agenda\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell }{\b\lang1033 
+\par Overview of Unix\cell }{\lang1033 \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell 
+\par Unix is an operating system.  This means that it\rquote s purpose is to support computer programs and applications.  We can also look at the operating system as the link between the programming language and hardware, and the software we use on our pc\rquote s. We do not need to be a programmer to understand Unix as it is not a programming language.  However, it is one level closer to the programming language than the software we interact with when we use spreadsheets, word processors etc.  We will therefor learn some basic Unix commands to help us interact with different files and programs on our system.  For instance,
+\par I will need to understand the basics of an operating system if I want to do things like deleting files, moving files around or set up my computer environment for my individual needs.
+\par 
+\par Q: What do we call someone who just uses software?
+\par End user
+\par Q: What do we call someone who uses and manipulates operating systes?
+\par Systems Administrator
+\par Q: What are other examples of operating systems?
+\par OS/2, DOS, VMS
+\par 
+\par OS/2 and VMS are large, complex os\rquote s and DOS is fairly limited.  Unix falls somewhere in between these opposites.
+\par \cell 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  Computer system Hierachy\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid History of Unix
+\par \pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {
+\par Unix was originally designed in 1970 by Ken Thompson from Bell Labs.  Bell Labs is a division of the American telecommunications company AT&T.  Unix was first written in the old programming language, Assembly.  However, when the well known C language was invented, it was rewritten in C.
+\par 
+\par In the mid 1970\rquote s Unix was licenced to academic institutions and became very popular as it was cheap and flexible to use.  Unix eventually also gained popularity with business.  It was further developed and adapted by different users and today there are two main variations, i.e. System V and the Berkeley Software Distribution (BSD).
+\par \cell }{\lang1033 \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid {\lang2057 Unix Model
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {
+\par All Unix systems can be represented by the following model:
+\par We said earlier that an operating system is the link between the software that we normally use and the programming languages and hardware.   We also said that the os is used to manipulate software (applications and tools) on my system.  The environment in which we do this, is called a shell.  So the Unix commands that we will learn, are actually cues we give the shell to interact with the rest of our system.  Another way of looking at this would be to say that the shell is the interface between the person and the machine, so the shell translates what I want the computer to do into machine language.
+\par 
+\par More concrete examples of interface tools would be the keyboard I use to type commands into my pc, or the screen that shows me the results of my input.  The are called interface instruments as they serve as links and communication channels between me and my computer.
+\par 
+\par If we remember that computers only do what we tell them, it follows that nothing will happen inside my pc, unless I communicate this to the programs and files that it operates on.  This communication or input normally happens via my keyboard.  Because of this we also talk of the keyboard as \lquote standard input\rquote .    We said just now that my pc screen normally shows me the results of my input, so this can also be referred to as \lquote standard output\rquote .
+\par 
+\par Q: Can you give me an example of another type of output device? Printer
+\par 
+\par Standard error???
+\par 
+\par Summarise the session by asking:
+\par Q: What is an operating system?
+\par Q: What do we call the interface that translates Unix commands to the applications and programs in my pc?\cell }{\lang1033 
+\par 
+\par Overhead \endash  Kernel/ shell model
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  Cartoon type to illustrate this\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell 
+\par }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid Interaction: The Shell Session\cell \pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\lang1033 \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell }{
+\par To start any process on a Unix machine you first have to }{\ul login}{.  This means that you are entering the system and at the same time identifying yourself.  You also need to enter a password.
+\par Your systems have been set up in Unix, so let\rquote s try logging in.
+\par Please note that  your log in name must be:
+\par {\pntext\pard\plain\intbl\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'a8\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\intbl\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'a8}}\ls3\adjustright {Unique, 3-8 characters, is case sensitive
+\par }\pard \nowidctlpar\widctlpar\intbl\adjustright {
+\par 
+\par When I finished my session on my system, I need to log out.  I simply do this by typing logout.  Logout is the equivalent command to \lquote shut down\rquote  on a single user system.  Let\rquote s try this and then log in again.
+\par 
+\par I have just mentioned the term \lquote single user\rquote , does anyone know what this mean?
+\par Yes, it refers to a pc system that is only used by one person.  One of the great advantages of the Unix system is that it is a Multi User system.  So, a lot of people can be using the same system ad once, having access to one set of programs and applications at the same time.  We can visualise this like a telephone exchange system.  It is one central system that services a whole lot of users at the same time.  Many people can be having telephone conversations at once, without interfering with one another.
+\par 
+\par Another useful function of Unix is Multi Tasking.  This function allows me to do different things at the same time.  So I could be busy with one half and hour task and switch to a ten minute task, without interrupting the other task. It kind of works like cooking or driving, i.e. I can have a dish in the oven and prepare a salad at the same time -  or-  I can be driving around a corner, looking in the rear view mirror, turning the steering wheel and even perhaps swear at a taxi driver \endash  all at the same time.
+\par So a unix system can be a flexible network of different users doing different tasks, all at once.
+\par 
+\par Just not we spoke about logging in and out.  These were the first two Unix shell commands that we\rquote ve learnt.  If you look at your screen you will see a $ or # at the right of the last line.  We call these symbols prompt signs, as they are prompting you, to enter a command.  So while we\rquote ve been doing all this chatting, your prompt command has been patiently awaiting you to talk to it!
+\par 
+\par We would like to be able to do more than login and logout, so let\rquote s look at how we give commands to the shell.  Remember that we said earlier computers do not do anything without us telling them exactly what and how.  The order in which we tell them what to do is called a command syntax.  It is a set way of giving instructions to the computer and if we get this mixed up our system will go all gaga.
+\par 
+\par A typcial command syntax for the unix shell looks like this.
+\par Not all commands need have the whole structure, e.g. login and logout only used the first bit, <do this> of the syntax.  You cannot however use only the <in this fashion> bit without the <do this> part.  Otherwise it would be like telling someone \ldblquote …in a melodic way\rdblquote , Instead of \ldblquote Play the song in a melodic way.\rdblquote 
+\par So a typical computer command would be:
+\par Move file A to directory X \endash  we would of course have to translate this into unix shell commands for the system to understand what we want it to do.
+\par 
+\par Two very useful commands to learn before we go any further are: man and man -k 
+\par The man command is similar to the help command that you may have used in applications before.  You can use the man command to find out more about any command, i.e. what it is, what it get used for etc.  Let\rquote s look at an example of this.  We can all type man ….
+\par You will notice a whole page full of description of the command.  Don\rquote t worry if a lot of the stuff on the page does not make sense.  The more you become familiar with Unix, the more familiar you will become with the man pages. To get out of man, type q (quit) at the prompt.
+\par There are some interesting prompts accessible to us while in man.  Go back to your man… page.  You will notice a more promt at the end of line 1.  As you may have assumed, choosing this prompt, will give you more info about that particular line.  To move onto the next page, just press your space bar.
+\par 
+\par So man is very useful in telling us more about a certain command, but what do we do if we want to perform a specific function, but we don\rquote t know the name of the command to do this?  Unix provided for this potential dilemma with the command man \endash k.  So all you have to do is type in man \endash k and then the function.  Let\rquote s try some examples:
+\par ……………….
+\par ……………….
+\par \cell }{\lang1033 
+\par 
+\par Overhead/ Slide - login screen
+\par 
+\par 
+\par Check that all attendees are doing this correctly.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  Illustrate telephone system
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Draw prompt commands on white board or flip chart
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  command syntax structure
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead/ Slide \endash  man, man \endash k examples.\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx810\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx6210\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx8550\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx810\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx6210\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx8550\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\adjustright {\lang1033 
+\par }}

@@ -1,0 +1,465 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}
+{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;
+\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\nowidctlpar\widctlpar\adjustright \fs20\lang2057\cgrid \snext0 Normal;}{\s1\keepn\nowidctlpar\widctlpar\outlinelevel0\adjustright \b\fs20\cgrid \sbasedon0 \snext0 heading 1;}{\s2\qj\sb120\sa120\keepn\nowidctlpar\widctlpar\outlinelevel1\adjustright 
+\b\cgrid \sbasedon0 \snext0 heading 2;}{\s4\qj\li720\sb120\sa120\sl360\slmult1\keepn\nowidctlpar\widctlpar\outlinelevel3\adjustright \b\cgrid \sbasedon0 \snext0 heading 4;}{\s5\qj\sb120\sa120\sl360\slmult1
+\keepn\nowidctlpar\widctlpar\outlinelevel4\adjustright \i\cgrid \sbasedon0 \snext0 heading 5;}{\*\cs10 \additive Default Paragraph Font;}{\s15\qc\nowidctlpar\widctlpar\adjustright \b\fs20\lang2057\cgrid \sbasedon0 \snext15 Title;}{\s16\qj\sl360\slmult1
+\nowidctlpar\widctlpar\adjustright \cgrid \sbasedon0 \snext16 Table Text;}{\s17\qj\sb120\sa120\nowidctlpar\widctlpar\adjustright \i\cgrid \sbasedon0 \snext17 Body Text;}}{\*\listtable{\list\listtemplateid134807555\listsimple{\listlevel\levelnfc23\leveljc0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3928 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid174808358}{\list\listtemplateid67698699\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0
+\levelstartat0\levelspace0\levelindent0{\leveltext\'01\u-3880 ?;}{\levelnumbers;}\f14\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid687292418}{\list\listtemplateid134807555\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\u-3928 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid968705787}{\list\listtemplateid134807555\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01\u-3928 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1128888374}}{\*\listoverridetable{\listoverride\listid968705787\listoverridecount0\ls1}{\listoverride\listid1128888374
+\listoverridecount0\ls2}{\listoverride\listid174808358\listoverridecount0\ls3}{\listoverride\listid687292418\listoverridecount0\ls4}}{\info{\title UNIX \'96 TRANERS GUIDE}{\author Norma Colley}{\operator M. J. Colley}{\creatim\yr1998\mo5\dy30\hr8\min59}
+{\revtim\yr1998\mo8\dy15\hr19}{\version33}{\edmins310}{\nofpages8}{\nofwords2843}{\nofchars16207}{\*\company The Clicks Organisation}{\nofcharsws19903}{\vern71}}\widowctrl\ftnbj\aenddoc\hyphcaps0\formshade\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot 
+\fet0\sectd \linex0\endnhere\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \s15\qc\nowidctlpar\widctlpar\adjustright \b\fs20\lang2057\cgrid {\fs24 UNIX \endash 
+ TRANERS GUIDE
+\par }\trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb \cellx540\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx7470\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb \cellx9810\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\fs24\lang1033 \cell \cell }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid {\fs24 Trainers Tools\cell 
+}\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\fs24\lang1033 \row }\trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv
+\brdrs\brdrw10 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx540\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb 
+\cellx7470\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx9810\pard \nowidctlpar\widctlpar\intbl\adjustright {\fs24\lang1033 \cell }\pard\plain 
+\s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid {\fs24 Introduction\cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\fs24\lang1033 \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {
+\fs24\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\fs24\lang1033 \cell Start session by giving each attendee an opportunity to:
+\par {\pntext\pard\plain\intbl\f3\cgrid \loch\af3\dbch\af0\hich\f3 \'a8\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\intbl\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'a8}}\ls2\adjustright {\fs24\lang1033 
+Introduce him/ herself
+\par {\pntext\pard\plain\intbl\f3\cgrid \loch\af3\dbch\af0\hich\f3 \'a8\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\intbl\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'a8}}\ls1\adjustright {\fs24\lang1033 
+Mention their background/ knowledge on Unix and/ or other operating systems
+\par {\pntext\pard\plain\intbl\f3\cgrid \loch\af3\dbch\af0\hich\f3 \'a8\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\intbl\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'a8}}\ls1\adjustright {\fs24\lang1033 
+List their expectations for the training session
+\par }\pard \nowidctlpar\widctlpar\intbl\adjustright {\fs24\lang1033 
+\par 
+\par Provide brief outline of agenda with time frame
+\par 
+\par Discuss practical issues e.g. tea breaks etc.\cell 
+\par 
+\par 
+\par List all expectations on flip chart \endash  to refer to at end of training session
+\par 
+\par Overhead - Agenda\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\fs24\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\fs24\lang1033 \cell }{\b\fs24\lang1033 
+\par Overview of Unix\cell }{\fs24\lang1033 \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\fs24\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell 
+\par Unix is an operating system.  This means that it\rquote s purpose is to support computer programs and applications.  We can also look at the operating system as the link between the programming language and hardware, and the software we use on our pc
+\rquote s. We do not need to be a programmer to und
+erstand Unix as it is not a programming language.  However, it is one level closer to the programming language than the software we interact with when we use spreadsheets, word processors etc.  We will therefor learn some basic Unix commands to help us in
+teract with different files and programs on our system.  For instance,
+\par I will need to understand the basics of an operating system if I want to do things like deleting files, moving files around or set up my computer environment for my individual needs.
+\par 
+\par Q: What do we call someone who just uses software?
+\par End user
+\par Q: What do we call someone who uses and manipulates operating systes?
+\par Systems Administrator
+\par Q: What are other examples of operating systems?
+\par OS/2, DOS, VMS
+\par 
+\par OS/2 and VMS are large, complex os\rquote s and DOS is fairly limited.  Unix falls somewhere in between these opposites.
+\par \cell 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  Computer system Hierachy\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright 
+\b\fs20\cgrid {History of Unix
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {
+\par Unix was originally designed in 1970 by Ken Thompson from Bell Labs.  Bell Labs is a division of the American telecommu
+nications company AT&T.  Unix was first written in the old programming language, Assembly.  However, when the well known C language was invented, it was rewritten in C.
+\par 
+\par In the mid 1970\rquote s Unix was licenced to academic institutions and became very popular a
+s it was cheap and flexible to use.  Unix eventually also gained popularity with business.  It was further developed and adapted by different users and today there are two main variations, i.e. System V and the Berkeley Software Distribution (BSD).
+\par \cell }{\lang1033 \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid {\lang2057 
+Unix Model
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {
+\par All Unix systems can be represented by the following model:
+\par We said earlier that an operating system is the link between the software that we normally use and the programming languages and hardware.   We also said that the os is used to manipulate
+ software (applications and tools) on my system.  The environment in which we do this, is called a shell.  So the Unix commands that we will learn, are actually cues we give the shell to interact with the rest of our system.  Another way of looking at thi
+s would be to say that the shell is the interface between the person and the machine, so the shell translates what I want the computer to do into machine language.
+\par 
+\par More concrete examples of interface tools would be the keyboard I use to type commands into 
+my pc, or the screen that shows me the results of my input.  The are called interface instruments as they serve as links and communication channels between me and my computer.
+\par 
+\par If we remember that computers only do what we tell them, it follows that nothin
+g will happen inside my pc, unless I communicate this to the programs and files that it operates on.  This communication or input normally happens via my keyboard.  Because of this we also talk of the keyboard as \lquote standard input\rquote 
+.    We said just now that my pc screen normally shows me the results of my input, so this can also be referred to as \lquote standard output\rquote .
+\par 
+\par Q: Can you give me an example of another type of output device? Printer
+\par 
+\par Standard error???
+\par 
+\par Summarise the session by asking:
+\par Q: What is an operating system?
+\par Q: What do we call the interface that translates Unix commands to the applications and programs in my pc?\cell }{\lang1033 
+\par 
+\par Overhead \endash  Kernel/ shell model
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  Cartoon type to illustrate this\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell 
+\par }\pard\plain \s1\keepn\nowidctlpar\widctlpar\intbl\outlinelevel0\adjustright \b\fs20\cgrid {Interaction: The Shell Session\cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\lang1033 \cell }\pard 
+\nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \cell }{
+\par To start any process on a Unix machine you first have to }{\ul login}{.  This means that you are entering the system and at the same time identifying yourself.  You also need to enter a password.
+\par Your systems have been set up in Unix, so let\rquote s try logging in.
+\par Please note that  your log in name must be:
+\par {\pntext\pard\plain\intbl\f3\fs20\lang2057\cgrid \loch\af3\dbch\af0\hich\f3 \'a8\tab}}\pard \fi-360\li360\nowidctlpar\widctlpar\intbl\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'a8}}\ls3\adjustright {
+Unique, 3-8 characters, is case sensitive
+\par }\pard \nowidctlpar\widctlpar\intbl\adjustright {
+\par 
+\par When I finished my session on my system, I need to log out.  I simply do this by typing logout.  Logout is the equivalent command to \lquote shut down\rquote  on a single user system.  Let\rquote s try this and then log in again.
+\par 
+\par I have just mentioned the term \lquote single user\rquote , does anyone know what this mean?
+\par Yes, it refers to a pc system that is only used by one person.  One of the great advantages of the Unix system is that it is a Multi User system.  So, a 
+lot of people can be using the same system at once, having access to one set of programs and applications at the same time.  We can visualise this like a telephone exchange system.  It is one central system that services a whole lot of users at the same t
+ime.  Many people can be having telephone conversations at once, without interfering with one another.
+\par 
+\par Another useful function of Unix is Multi Tasking.  This function allows me to do different things at the same time.  So I could be busy with one half and
+ hour task and switch to a ten minute task, without interrupting the other task. It kind of works like cooking or driving, i.e. I can have a dish in the oven and prepare a salad at the same time -  or-  I can be driving around a corner, looking in the rea
+r view mirror, turning the steering wheel and even perhaps swear at a taxi driver \endash  all at the same time.
+\par So a unix system can be a flexible network of different users doing different tasks, all at once.
+\par 
+\par Just not we spoke about logging in and out.  These were the first two Unix shell commands that we\rquote 
+ve learnt.  If you look at your screen you will see a $ or # at the right of the last line.  We call these symbols prompt signs, as they are prompting you, to enter a command.  So while we\rquote ve been doing all thi
+s chatting, your prompt command has been patiently awaiting you to talk to it!
+\par 
+\par We would like to be able to do more than login and logout, so let\rquote s look at how we give commands to the shell.  Remember that we said earlier computers do not do anything witho
+ut us telling them exactly what and how.  The order in which we tell them what to do is called a command syntax.  It is a set way of giving instructions to the computer and if we get this mixed up our system will go all gaga.
+\par 
+\par A typcial command syntax for the unix shell looks like this.
+\par Not all commands need have the whole structure, e.g. login and logout only used the first bit, <do this> of the syntax.  You cannot however use only the <in this fashion> bit without the <do this> part.  Otherwise it would be like telling someone 
+\ldblquote \'85in a melodic way\rdblquote , Instead of \ldblquote Play the song in a melodic way.\rdblquote 
+\par So a typical computer command would be:
+\par Move file A to directory X \endash  we would of course have to translate this into unix shell commands for the system to understand what we want it to do.
+\par 
+\par Two very useful commands to learn before we go any further are: man and man -k 
+\par The man command is similar to the help command that you may have used in applications before.  You can use the man command to find out more about any command, i.e. what it is, what it get used for etc.  Let\rquote 
+s look at an example of this.  We can all type man \'85.
+\par You will notice a whole page full of description of the command.  Don\rquote t worry if a lot of the stuff on the page does not make sense.  The more you be
+come familiar with Unix, the more familiar you will become with the man pages. To get out of man, type q (quit) at the prompt.
+\par There are some interesting prompts accessible to us while in man.  Go back to your man\'85 page.  You will notice a more prompt at t
+he end of line 1.  As you may have assumed, choosing this prompt, will give you more info about that particular line.  To move onto the next page, just press your space bar.
+\par 
+\par So man is very useful in telling us more about a certain command, but what do we do if we want to perform a specific function, but we don\rquote t know the name of the command to do this?  Unix provided for this potential dilemma with the command man 
+\endash k.  So all you have to do is type in man \endash k and then the function.  Let\rquote s try some examples:
+\par \'85\'85\'85\'85\'85\'85.
+\par \'85\'85\'85\'85\'85\'85.
+\par \cell }{\lang1033 
+\par 
+\par Overhead/ Slide - login screen
+\par 
+\par 
+\par Check that all attendees are doing this correctly.
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  Illustrate telephone system
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Draw prompt commands on white board or flip chart
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  command syntax structure
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead/ Slide \endash  man, man \endash k examples.\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\lang1033 \row }\trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh
+\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx720\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb \cellx8460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx10980\pard \nowidctlpar\widctlpar\intbl\adjustright {\cell }\pard\plain 
+\s2\qj\sb120\sa120\keepn\nowidctlpar\widctlpar\intbl\outlinelevel1\adjustright \b\cgrid {\fs20 The file system
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {Simiiiiiiilar to other operating systems and computer applications, Unix also has a filing system that allows us to organise information in a logical manner.  For 
+instance, I can keep all my data of company A together in one file and keep data of company B in a seperate file.  I may keep these two files in one big directory \ldblquote Clients\rdblquote 
+.  So in this case the directory is like a filing drawer and my file is the particul
+ur information I have about company A.  This information can include word documents, pictures or e-mails.  I may also wish to create some subdirectories if I have a lot of information to organise.  I may for instance wish to call a subdirectory 
+\ldblquote Cape Town clients\rdblquote  or \ldblquote Durban clients\rdblquote .
+\par }\pard\plain \s17\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \i\cgrid {\fs20 Mention that we also refer to this kind of structure as a tree structure.
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {In Unix the file system initially consists of one directory, called the \ldblquote root\rdblquote  directory.  The root directory is represented by the\rdblquote /\rdblquote 
+ sign.  So, if I n
+eed the full name for my company B file, it may look like this: /clients/cape town clients/company B.  This literally means clients is my directory inside the root directory, cape town clients is a subdirectory inside the clients directory and company B i
+s a file inside the subdirectory cape town clients. This full name is also called the path.\cell 
+\par 
+\par 
+\par Overhead \endash  the file system
+\par 
+\par 
+\par 
+\par Overhead \endash  the file system, use example\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\cell }\pard\plain \s2\qj\sb120\sa120\keepn\nowidctlpar\widctlpar\intbl\outlinelevel1\adjustright 
+\b\cgrid {\fs20 Organise
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {Unix has a standard filing structure that I want us to look at now.  You will not
+ice that according to this structure even programs like word processors and spreadsheets are treated as files.  At this stage it is not nece
+ssary for you to remember all the different directories and subdirectories.  We will merely cover this to give you a big picture of the environment that we are working in.
+\par /root \endash  We said earlier that root is the top directory of any Unix file system
+\par bin \endash  contains many of the programs used by the Unix system itself to run smoothly.  In this case you can see that we also refer to programs as files.  For example the \ldblquote ls\rdblquote 
+ program is treated as file within the bin directory.  We will soon be looking at what this program does for us.
+\par Tmp \endash  contains all temporary files created by Unix
+\par Usr \endash  This is where all the different use
+rs who use the system will be listed.  Every single person who uses the same Unix system has his/ her own account.  When we logged in earlier, we logged into our own user accounts in this directory.  For this reason, we also refer to this directory as the
+ home or login directory.
+\par Hp \endash ux ????
+\par Etc \endash  contains administrative and configuration programs e.g. ?????
+\par Training- ????
+\par }{\b Dev}{ \endash  contains special files representing input and output devices.  Earlier today we talked about input/ output.  What would these be? Printer, keybooard, screen etc.\cell 
+\par }\pard\plain \s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \cgrid {\fs20 Overhead \endash  Standard Unix file system, page 29.\cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\row }\pard 
+\nowidctlpar\widctlpar\intbl\adjustright {\cell }\pard\plain \s2\qj\sb120\sa120\keepn\nowidctlpar\widctlpar\intbl\outlinelevel1\adjustright \b\cgrid {\fs20 Creating and Deleting directories
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {We said earlier on that we want to create our own directoies or subdirectories if we have a large amount of data that we do not simply want to arrange in files.  Let\rquote 
+s use the previous example to create the \ldblquote clients\rdblquote  directory.  To create a directory you use the }{\b mkdir }{(make directory) command.  So to create a \ldblquote clients\rdblquote  directory we need to type }{\b mkdir clients}{
+.   Creating directories using the Unix system is really simple.   There are just a few basic rules regarding what makes a valid filename.  
+\par }\pard\plain \s4\qj\li720\sb120\sa120\keepn\nowidctlpar\widctlpar\intbl\outlinelevel3\adjustright \b\cgrid {\i\fs20 The ls command
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {If we want to view a list of our files and directories we need to use the }{\b ls}{ command.  Can anyone remember in which directory this program is contained? A:bin  
+\par }{\b ls}{  is one of the most used commands.  If you type in this command, it will give you a list of all the commands in your current directory.  So, it will show you the files in your user subdirectory and so far we\rquote  ve only created one, called 
+\ldblquote clients\rdblquote .
+\par If I want to see what are the files and directories contained in my root (/) directory, I use the command  }{\b ls  /}{ .  In the previous section we spoke about command syntax.  }{\b ls  /}{ is a good example of where we don\rquote 
+t only use the <do this> part of the syntax, but also a <to this part> bit.  So, we are in fact saying show us the files/ directories contained in the root directory.
+\par Another option with my ls command is: }{\b ls \endash F}{.  This option allows us to see which files as directoies, which ones are special files, which are programs and which are normal files.  So, here we are saying <do this> <in this fashion>.
+\par }\pard\plain \s5\qj\sb120\sa120\keepn\nowidctlpar\widctlpar\intbl\outlinelevel4\adjustright \i\cgrid {\fs20 Briefly reflect on overhead again
+\par }\pard\plain \s16\qc\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \shading1250\cbpat8 \cgrid {\b\fs20 Exercise}{\fs20 :
+\par }\pard \s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \shading1250\cbpat8 {\fs20 Create \ldblquote clients\rdblquote  file, using the mkdir command.
+\par Type ls to see if it has been created.
+\par Type ls / to view all directories and files in root directory.
+\par }{\i\fs20 Relflect on the directories mentioned in earlier section, e.g. bin .
+\par }{\fs20 Type ls \endash F to see which ones are directories, files etc.
+\par Q: Is clients a normal file or a directory?
+\par }\pard \s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright {\fs20 
+\par Deleting files/ directories
+\par In order to delete files, we use the }{\b\fs20 rmdir}{\fs20  (remove directory) command.  This command works exactly like the }{\b\fs20 mkdir}{\fs20  command, i.e. you type the command followed by the filename.
+\par Now, let\rquote s see if this directory has really been removed.
+\par }{\b\fs20 Moving around
+\par }{\fs20 You can move between directories, using the }{\b\fs20 cd}{\fs20  (change directory) command.  You should currently be in /home/user directory.  If your screen does not tell you where you are, you can use the command }{\b\fs20 pwd}{\fs20 
+ (present working directory).  
+\par If we now type }{\b\fs20 cd /home}{\fs20 , we change from our own user directory to the home or parent directory (the directory above your present working directory).  }{\b\fs20 ls}{\fs20 
+ will now only display the subdirectories hosted in the home directory.
+\par You can among directories using }{\fs20\ul absolute }{\fs20 or }{\fs20\ul relative pathnames}{\fs20 .
+\par At the moment our pathname :/users/name.  If I want to change directory to the root, I have two options. I can either type the absolute pathname: }{\b\fs20 cd /}{\fs20  or the relative pathname }{\b\fs20 cd ..
+\par }{\fs20 The absolute pathname specifies the path to a directory or file, starting from the root.
+\par The relative pathname is indicated by different symbols, indicating a directory\rquote s position relative to my present working directory.
+\par }{\i\fs20 Explain overhead
+\par }{\b\fs20 Copy and Move 
+\par }{\fs20 Apart from making and removing directories, we may also want to copy and move directories.  To copy, I use the }{\b\fs20 cp}{\fs20  command and to move, I use the }{\b\fs20 mv}{\fs20  command.
+\par Examples??????
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\cell 
+\par 
+\par 
+\par 
+\par Overhead \endash  Valid Unix filenames
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  command syntax structure
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  screen of results
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead \endash  Relative pathnames, page 49
+\par 
+\par 
+\par 
+\par 
+\par \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\cell }\pard\plain \s2\qj\sb120\sa120\keepn\nowidctlpar\widctlpar\intbl\outlinelevel1\adjustright \b\cgrid {\fs20 Summary of Commands
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {We have learnt to use quite a number of Unix commands already.  Perhaps we should quickly reflect on these before we go any further:
+\par }\pard\plain \s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \cgrid {\b\fs20 login, logout
+\par }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {\b man, man \endash k, q
+\par mkdir, rmdir
+\par ls, ls \endash f
+\par cp, mv
+\par pwd
+\par }\pard\plain \s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \cgrid {\b\fs20 cd}{\fs20 \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {
+\par 
+\par 
+\par Handout \endash  commands with explanations\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\cell The Linux file system
+\par Links
+\par \cell \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\row }\pard \nowidctlpar\widctlpar\intbl\adjustright {\cell }\pard\plain \s2\qj\sb120\sa120\keepn\nowidctlpar\widctlpar\intbl\outlinelevel1\adjustright \b\cgrid {\fs20 Permissions and Security
+
+\par }\pard\plain \s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \cgrid {\fs20 As we said earlier, Unix is a multi user system.  We may therfor 
+want to control who has access to our personal files and directories.   Perhaps though we do not mind if other people read our files, but we 
+want to prevent anyone from making changes to it.  For this reason there are different types of permission we can give people on any one of our files.  These are: read (}{\b\fs20 r}{\fs20 ), write (}{\b\fs20 w}{\fs20 ) and execute (}{\b\fs20 x}{\fs20 ).
+
+\par If you type ls \endash  l, it gives you a long listing of your files, i.e. it shows you the permissions, the owners, size, when it was created and the file name, in that order.   
+\par Let\rquote s all do this now. 
+\par }{\i\fs20 Explain overhead 
+\par }{\fs20 The first set of rwx refers to the }{\b\fs20 u}{\fs20 ser access, the 2}{\fs20\super nd}{\fs20  set refers to the }{\b\fs20 g}{\fs20 roup access and the 3}{\fs20\super rd}{\fs20  set refers to }{\b\fs20 o}{\fs20 
+ther access. The nine character field is called a mode of a particular file. So, if I want to deny others to execute and write anything to the clients file, I need to use the following command:
+\par }{\b\fs20 chmod g=r clients
+\par }{\fs20 chmode means change mode and we have now changed the mode so that others can only read this file.  To add a permission we use the + sign and to remove a permission we use the \endash  sign. = is
+ used when we want to set a permission.  If permissions for all three classes are similar, we can simply use an }{\b\fs20 a}{\fs20  (all).  So, if all 3 classes can write \ldblquote clients\rdblquote , we can type chmod a=w
+\par 
+\par }\pard \s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \shading1250\cbpat8 {\fs20 Exercise \endash  combining all commands of this chapter
+\par }\pard \s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright {\fs20  In this section we covered the Unix environment, i.e. creating, moving, copying and navigating between directori
+es.  We also looked at permission and how to control this within a multi user environment.
+\par \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {
+\par 
+\par 
+\par 
+\par Overhead \endash  ls \endash l screen\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\row }\trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv
+\brdrs\brdrw10 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx720\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb 
+\cellx8460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb \cellx10980\pard \nowidctlpar\widctlpar\intbl\adjustright {\cell }\pard\plain 
+\s16\qj\sb120\sa120\nowidctlpar\widctlpar\intbl\adjustright \cgrid {\b\fs20 Information Flow
+\par }{\fs20 Earlier in this course we discussed the terms standard input and standard output.  
+\par Briefly reflect back to what is meant by these terms.
+\par We are shortly going to look at ways of controlling information/ command flows in ways that sometimes avoid using the standard input and output.  This control of information flow is called redirection.  In order to help us understa
+nd this process better we first need to look a data filters \endash  as most redirection process involve the combined use of filters.  Filters are commands that process information files in different ways.  Three frequently used filters are:
+\par Wc \endash  simply counts lines, words and characters
+\par Sort \endash  sort the information in the input file according to some parameter????
+\par Grep \endash  searches a file for lines matching a pattern or another file, e.g. If I\rquote m look for lines containing a certain word the grep command will show me all the lines including the word
+\par 
+\par 
+\par Filters are useful tools in redirecting and piping and we will now use some examples to explore how we use redirection.
+\par We said just now that standard output normally entails viewing the results of our command on the moni
+tor screen.   Unix has the ability to redirect output (or save it) so that we can, for instance, send it directly to the printer, without first viewing it.  The sign we use for redirecting is \ldblquote >\rdblquote 
+.  We use this sign at the end of a command, followed by the file to which we want to direct the output.  For example:
+\par In the same way we can also redirect input, using the \ldblquote <\rdblquote  sign.  We would not use this function as often as redirecting output, but it is useful in circumstances where standard input is derived from
+ a file, instead of the terminal.  For example:
+\par Another way of manipulating the flow of information is to use a piping command. The pipe command \ldblquote |\rdblquote  allows us to connect two commands and we will view the output of the two commands simultaneously, without h
+aving to first save the output of the initial command.  This also implies that we do not have to create temporary files.
+\par Summarize: So, with redirection we create a new temporary file and with piping we combine two commands.
+\par < accepts input from a file, instead of the standard input
+\par > sends output to a file or device rather than the standard output.
+\par | connects the output from one file directly to the output of another file
+\par 
+\par 
+\par 
+\par }{\fs20\highlight16 Exercise: Combining filters with redirection and piping commands}{\fs20 \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\lang2057\cgrid {
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead, example
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead, example
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par Overhead: flow diagrams using examples to illustrate difference between redirection and piping.\cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\row }\pard \nowidctlpar\widctlpar\adjustright {
+\par }{\fs24\lang1033 
+\par }}
